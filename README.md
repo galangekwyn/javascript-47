@@ -1,5 +1,5 @@
 Tugas Pekanan - Javascript Introduction
-Galang Eka Wiyono - SanberCode batch 47
+- Galang Eka Wiyono - SanberCode batch 47
 
 Description:
 - Tugas 1 = Membuat program dari akar pangkat 2 dari x, dengan x harus bilangan genap.
