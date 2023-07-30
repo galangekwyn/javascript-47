@@ -10,11 +10,14 @@ Hint: Gunakan metode Pengulangan, Array dan Object keys (Silakan cari referensi 
 
 - How to run this Repository:
 1. Clone this Repository
-   https://github.com/galangekwyn/javascript-47.git
+- "https://github.com/galangekwyn/javascript-47.git"
+
 2. Open the folder with VS Code
-   cd javascript-47
+- "cd javascript-47"
+
 3. Choose the "tugas-js" folder
-   cd tugas-js
+- "cd tugas-js"
+
 4. Run Source Code with command
   - Tugas 1:
     "node tugas-js/soal1.js"
